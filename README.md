@@ -1,16 +1,18 @@
-### Hi there 👋
+## Bom dia! Eu sou Fernando Gabriel.
+### <div align="center"> _Procurando uma informação específica?_ </div>
+  
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fergabriel0&show_icons=true&theme=great-gatsby"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fergabriel0&hide_progress=false"/>
+</div>
 
 <!--
-**fergabriel0/fergabriel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+e-mail:
+portifolio:
 
-Here are some ideas to get you started:
+*mecanicazinha daora de clicar em cada tabelinha pra mostrar cada linguagem*
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
