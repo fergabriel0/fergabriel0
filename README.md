@@ -3,6 +3,7 @@
 
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <style>.icons { height: 30em; }</style>
 </head>
 
 <!-- fonte: DM-Sans -->
@@ -14,6 +15,7 @@
 
 
 ## Linguagens:
+
 <img class="icons" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 
