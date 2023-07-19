@@ -1,13 +1,9 @@
 <!-- card de boas vindas -->
-
+<img src="card.png">
 
 <head>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  
-  
 </head>
-
-<img src=""
 
 <!-- fonte: DM-Sans -->
 <!-- https://devicon.dev -->
